@@ -1,0 +1,5 @@
+根据imooc教程制作一个仿微信回复对话框http://www.imooc.com/video/2874
+1)学习mybatis
+2)对比mybatis与jdbc区别
+对应数据库为wechatchating.sql
+**此项目是以jdbc方式实现
